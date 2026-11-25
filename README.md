@@ -1,6 +1,6 @@
-# Acampamento Sombrio – O Massacre
+# Acampamento Sombrio – Derivadas
 
-Jogo digital educacional desenvolvido em RPG Maker MZ – IFBA.
+Jogo digital educacional desenvolvido em RPG Maker MZ – IFBA. Versão com questões de Derivadas (Cálculo).
 
 ▶️ **Jogue no navegador:** https://celsoedu-del.github.io/acampamento-sombrio/
 
